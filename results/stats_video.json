@@ -1,0 +1,11 @@
+{
+  "frames_total": 795,
+  "frames_used": 159,
+  "resolution": "96x72",
+  "matrix_shape": "159x6912",
+  "iters": 43,
+  "final_rel_err": 9.006296279320677e-08,
+  "bg_rank": 15,
+  "seconds": 24.731225700001232,
+  "fg_ratio_mean": 0.028615806254367576
+}
